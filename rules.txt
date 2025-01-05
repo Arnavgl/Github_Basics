@@ -1,0 +1,8 @@
+1. Do git init in that folder where you will add files, basically push your files
+2. Link your local machine folder with some remote repository by using the "git remote add origin <https link>" command
+3. Do "git status" to check for files to be committed
+4. Push your code from local to remote (2 Steps)
+    a. add: telling the github what all I'm going to add "git add <filename> / ."
+    b. commit: give message from local to remote machine while committing the file
+5. git config --global user.name <your username>
+6. git config --global user.email <your email>
