@@ -6,3 +6,6 @@
     b. commit: give message from local to remote machine while committing the file
 5. git config --global user.name <your username>
 6. git config --global user.email <your email>
+
+I. "git diff": diff of what is changed but not staged
+II. "git diff --staged": diff of what is staged but not yet commited
